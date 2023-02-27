@@ -1,0 +1,18 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.ABC{
+    width: 300px;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
